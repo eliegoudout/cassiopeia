@@ -19,6 +19,7 @@ dependencies = [
     "dotenv>=0.9.9",
     "matplotlib>=3.10.1",
     "sortedcontainers>=2.4.0",
+    "ruamel-yaml>=0.18.15",
 ]
 keywords = ["LoL", "League of Legends", "Riot Games", "API", "REST"]
 classifiers = [
