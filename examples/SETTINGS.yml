@@ -1,0 +1,16 @@
+global:
+  version_from_match: latest
+
+plugins: []
+
+pipeline:
+  Cache: {}
+  DDragon: {}
+  RiotAPI:
+    api_key: RGAPI-540É82f65-0867-45a7-8d99-79dbbdacaab2
+
+logging:
+  print_calls: true
+  print_riot_api_key: false
+  default: WARNING
+  core: WARNING
