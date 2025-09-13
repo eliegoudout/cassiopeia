@@ -2,6 +2,8 @@
 [![Documentation Status](https://readthedocs.org/projects/cassiopeia/badge/?version=latest)](http://cassiopeia.readthedocs.org/en/latest/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1170906.svg)](https://doi.org/10.5281/zenodo.1170906)
 
+This is a friendly fork from [meraki-analytics/cassiopeia](meraki-analytics/cassiopeia), which may fix a few problems due to lack of maintain. The objective is not to diverge and regular PR to original repo might occur, but there's no guarantee.
+
 # Cassiopeia
 
 A Python adaptation of the Riot Games League of Legends API (https://developer.riotgames.com/).
